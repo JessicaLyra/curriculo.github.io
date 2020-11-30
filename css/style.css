@@ -103,8 +103,7 @@ div .card {
 }
 .sobre p {
 	color:#848484;
-	font-family:'Poppins', sans-serif;
-	
+	font-family:'Poppins', sans-serif;	
 }
 
 .sobre a i {
@@ -145,25 +144,13 @@ div .card {
 	transition: width 5s;
 }
 
-/*div .barra-1 {
-	width:0%;
-	transition: width 1s;
-}
-
-div.barra-2 {
-	width:0%;
-}
-*/
-
-
 /*cursos extracurriculares*/
 .cursos {
 	background-color:#8A0829;
 	padding-top: 80px;
 	padding-bottom: 80px;
 	font-family:'Poppins', sans-serif;
-	width:100%;
-	
+	width:100%;	
 }
 
 .cursos h1 {
@@ -174,26 +161,13 @@ div.barra-2 {
 	padding-top:30px;
 }
 
-.cursos i {
-	
-	
-	
-}
-
-
 .cursos p{
 	font-size:100px;
 	color:#fff;
 	text-align:center;
 	padding-top:100px;
 	opacity:0;
-	transition: opacity 1s;
-
-	
-}
-
-.bloco-curso {
-	
+	transition: opacity 1s;	
 }
 
 /*footer*/
@@ -261,8 +235,6 @@ form button {
 	color:#8A0829;
 	border:none;
 	cursor:pointer;
-	
-	
 }
 
 .creditos {
